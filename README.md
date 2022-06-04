@@ -2,5 +2,6 @@
 a test project for git course
 
 ## my project notes
--hello
--hi
+1. Notes:
+  - hello
+    - hi
